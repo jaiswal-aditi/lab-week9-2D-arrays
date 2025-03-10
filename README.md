@@ -1,7 +1,7 @@
 # ICS 212
 ## Lab - Week 9
 
-# Loops
+# Arrays (2D matrix operations)
 
 ### Assignment:
 - Update matrix_operations.c following assignment description provided in LabAssignment_Week9.pdf (uploaded on Laulima)
