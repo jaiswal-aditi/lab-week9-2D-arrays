@@ -1,10 +1,10 @@
 # ICS 212
-## Lab - Week 5
+## Lab - Week 9
 
 # Loops
 
 ### Assignment:
-- Update continue-break.c, nested1.c, nested2.c, and nested3.c following assignment description provided in LabAssignment_Week5.pdf (uploaded on Laulima)
+- Update matrix_operations.c following assignment description provided in LabAssignment_Week9.pdf (uploaded on Laulima)
 
 
 ### Steps to submit changes:
@@ -23,7 +23,7 @@
 4. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
-Github is not a place to test your code. We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions. If you exceed 15 commits, we will penalize your grade.
+Github is not a place to test your code. We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions. If you exceed 5 commits, we will penalize your grade.
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
